@@ -1,2 +1,5 @@
-weight,height,BMI,Smoking Status,Alcohol Status,Activity Status,Heart Condition Risk,Age,Gender,BMI Category,
-45,1.54,18.97453196,Non-smoker,Non-drinker,Inactive,Medium,45,M,Normal weight,
+weight,height,BMI,Smoking Status,Alcohol Status,Activity Status,Heart Condition Risk,Age,Gender,BMI Category,Unnamed: 10
+45.0,1.54,18.97453196,Non-smoker,Non-drinker,Inactive,Medium,45,M,Normal weight,
+,,24.654832347140037,no,no,yes,Low,40,M,Normal weight,
+,,22.892819979188342,yes,no,yes,Low,50,F,Normal weight,
+,,27.21730294672667,no,no,no,Medium,30,M,Overweight,

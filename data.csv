@@ -6,4 +6,5 @@ weight,height,BMI,Smoking Status,Alcohol Status,Activity Status,Heart Condition 
 60.0,1.56,24.65483234714004,no,no,yes,Low,40,M,Normal weight,
 48.0,1.66,17.419073885905068,no,yes,yes,Medium,45,M,Underweight,
 45.0,1.45,21.40309155766944,no,no,yes,Low,25,M,Normal weight,
-67.0,1.65,24.609733700642796,yes,no,yes,Low,84,M,Normal weight,
+67.0,1.65,24.6097337006428,yes,no,yes,Low,84,M,Normal weight,
+61.0,1.65,22.4058769513315,yes,no,yes,Low,67,F,Normal weight,

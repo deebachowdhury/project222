@@ -1,4 +1,5 @@
 Height,Weight,Age,Gender,BMI,Smoking Status,Alcohol Status,Activity Status,BMI Category,Heart Condition Risk
-1.62,57.0,21,F,21.719250114311837,no,no,yes,Normal weight,Low
+1.62,57.0,21,F,21.71925011431184,no,no,yes,Normal weight,Low
 1.58,94.0,54,F,37.6542220797949,yes,no,no,Obesity,Medium
 1.64,76.0,43,M,28.256989886972047,yes,no,yes,Overweight,Medium
+1.62,59.0,23,F,22.481329065691202,no,no,yes,Normal weight,Low
